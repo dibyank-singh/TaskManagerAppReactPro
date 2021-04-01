@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/TaskManagerAppReactPro/static/css/main.fabc796f.chunk.css",
+    "main.js": "/TaskManagerAppReactPro/static/js/main.5ef4ef37.chunk.js",
+    "main.js.map": "/TaskManagerAppReactPro/static/js/main.5ef4ef37.chunk.js.map",
+    "runtime-main.js": "/TaskManagerAppReactPro/static/js/runtime-main.fab7603e.js",
+    "runtime-main.js.map": "/TaskManagerAppReactPro/static/js/runtime-main.fab7603e.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/TaskManagerAppReactPro/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.7f61d515.chunk.js": "/TaskManagerAppReactPro/static/js/2.7f61d515.chunk.js",
+    "static/js/2.7f61d515.chunk.js.map": "/TaskManagerAppReactPro/static/js/2.7f61d515.chunk.js.map",
+    "static/js/3.ae4a7ab1.chunk.js": "/TaskManagerAppReactPro/static/js/3.ae4a7ab1.chunk.js",
+    "static/js/3.ae4a7ab1.chunk.js.map": "/TaskManagerAppReactPro/static/js/3.ae4a7ab1.chunk.js.map",
+    "index.html": "/TaskManagerAppReactPro/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/TaskManagerAppReactPro/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.fabc796f.chunk.css.map": "/TaskManagerAppReactPro/static/css/main.fabc796f.chunk.css.map",
+    "static/js/2.7f61d515.chunk.js.LICENSE.txt": "/TaskManagerAppReactPro/static/js/2.7f61d515.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fab7603e.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.7f61d515.chunk.js",
+    "static/css/main.fabc796f.chunk.css",
+    "static/js/main.5ef4ef37.chunk.js"
+  ]
+}
